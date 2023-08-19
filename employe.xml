@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employe_details>
+    <employee id="998874">
+		<title lang="en">My Employee</title>
+		<Personal>
+			<fname> Narendren </fname>
+			<lname> G</lname>
+			<DOB>25-02-2000 </DOB>
+			<Gender> Male</Gender>
+		</Personal>
+		<Employment>
+			<Position> Senior Manager </Position>
+			<Salary>76000</Salary>
+		</Employment>
+		<contact>
+			<Email>narendran.g@mca.christuniversity.in</Email>
+			<Phone>7892505334</Phone>
+		</contact>
+	</employee>
+    <employee id="998875">
+		<title lang="en">My Employee</title>
+		<Personal>
+			<fname> santhosh </fname>
+			<lname> op</lname>
+			<DOB>15-08-2002 </DOB>
+			<Gender> Male</Gender>
+		</Personal>
+		<Employment>
+			<Position>project head</Position>
+			<Salary>100000</Salary>
+		</Employment>
+		<contact>
+			<Email>santhosh@mca.christuniversity.in</Email>
+			<Phone>7892505324</Phone>
+		</contact>
+	</employee>
+    <employee id="998876">
+		<title lang="en">My Employee</title>
+		<Personal>
+			<fname> arunoth </fname>
+			<lname> symen</lname>
+			<DOB>14-05-2003 </DOB>
+			<Gender> Male</Gender>
+		</Personal>
+		<Employment>
+			<Position> uI/designer</Position>
+			<Salary>85000</Salary>
+		</Employment>
+		<contact>
+			<Email>symen@mca.christuniversity.in</Email>
+			<Phone>7892505123</Phone>
+		</contact>
+	</employee>
+</employe_details>
